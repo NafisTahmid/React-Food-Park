@@ -1,0 +1,30 @@
+.card-title {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.card-price {
+    padding-left: 120px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.card-heading {
+    font-weight: bolder;
+    color: #060505e6;
+}
+
+.card-body {
+    background-color: #f1f3f1eb;
+    height: 120px;
+    width: 160px;
+
+    
+   
+}
+
+.card-body button:hover{
+    color: #000;
+    font-weight: bold;
+
+}
